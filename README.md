@@ -1,2 +1,7 @@
 # IT-Engineer-Lab
-welcome to the grand forum of engineer IT Lab no noobs allowed here
+Student name: Sonawane Om 
+Roll number: 37
+Branch:ECE 
+Experiment title:Creating a gitHub account 
+Project description: Adding 2 menningfull comments and 4 basic web file 
+Technologies/tools used :browser,GitHub,Google
